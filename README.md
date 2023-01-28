@@ -1,2 +1,2 @@
 # other_warks
-This is the place I put my some works them I made just for fun.
+I put my works that I made just for fun.
