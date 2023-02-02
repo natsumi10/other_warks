@@ -29,7 +29,6 @@ def GetAuth():
     api = tweepy.API(auth, wait_on_rate_limit = True)
     return api
 
-
 def ClearTextFile(text_name):
     #print (text_name)
     if text_name.find(".csv") == -1 :
